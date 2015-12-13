@@ -1,0 +1,19 @@
+/* Copyright 2012 the Dart project authors. All rights reserved. */
+/* Use of this source code is governed by a BSD-style license */
+/* that can be found in the LICENSE file. */
+
+#container {
+  left: 0;
+  right: 0;
+  height: 300px;
+}
+
+#fps {
+  float: right;
+  margin-bottom: 0;
+}
+
+#area {
+  left: 0;
+  right: 0;
+}
